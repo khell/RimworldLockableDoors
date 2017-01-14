@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Buildings>
+    <ThingDef ParentName="DoorBase">
+        <thingClass>LockableDoors.Buildings.Building_LockableDoor</thingClass>
+        <defName>LockableDoor</defName>
+        <label>lockable door</label>
+        <description>Divides rooms. Has a lock. Must be manually opened and closed, which slows people down.</description>
+        <statBases>
+            <WorkToBuild>1000</WorkToBuild>
+        </statBases>
+        <graphicData>
+            <texPath>Things/Building/Door/DoorSimple_Mover</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <damageData>
+                <enabled>false</enabled>
+            </damageData>
+        </graphicData>
+        <uiIconPath>Things/Building/Door/DoorSimple_MenuIcon</uiIconPath>
+        <costStuffCount>30</costStuffCount>
+        <researchPrerequisites>
+            <li>ResearchLockableDoor</li>
+        </researchPrerequisites>
+        <regionBarrier>True</regionBarrier>
+    </ThingDef>
+
+    <ThingDef ParentName="DoorBase">
+        <thingClass>LockableDoors.Buildings.Building_LockableDoor</thingClass>
+        <defName>LockableAutodoor</defName>
+        <label>lockable autodoor</label>
+        <description>Divides rooms. Has a lock. Powered operation allows people to move through the door without slowing down.</description>
+        <statBases>
+            <WorkToBuild>2000</WorkToBuild>
+        </statBases>
+        <graphicData>
+            <texPath>Things/Building/Door/Autodoor_Mover</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <damageData>
+            <!--  no damage marks because they don't move with the door
+            <rect>(0,0.12,1,0.76)</rect>-->
+            <enabled>false</enabled>
+            </damageData>
+        </graphicData>
+        <uiIconPath>Things/Building/Door/Autodoor_MenuIcon</uiIconPath>
+        <costList>
+            <Steel>45</Steel>
+            <Component>3</Component>
+        </costList>
+        <costStuffCount>30</costStuffCount>
+        <comps>
+            <li Class="CompProperties_Power">
+                <compClass>CompPowerTrader</compClass>
+                <basePowerConsumption>55</basePowerConsumption>
+            </li>
+            <li Class="CompProperties_Breakdownable"/>
+        </comps>
+        <researchPrerequisites>
+            <li>ResearchLockableAutodoor</li>
+        </researchPrerequisites>
+        <regionBarrier>True</regionBarrier>
+    </ThingDef>
+</Buildings>

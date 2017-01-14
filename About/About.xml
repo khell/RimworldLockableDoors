@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Lockable Doors</name>
+    <author>Khell</author>
+    <targetVersion>0.16.1393</targetVersion>
+    <description>&lt;color=red&gt;&lt;b&gt;Requires HugsLib.&lt;/b&gt;&lt;/color&gt;
+
+Adds lockable doors and autodoors to the game after appropriate research projects &lt;b&gt;Door Locks&lt;/b&gt; for normal doors and &lt;b&gt;Locking Autodoors&lt;/b&gt; for autodoors have been completed. Finally, your colonists can have a night of undisturbed sleep without needing to build a hallway if you don't want to!
+
+The following instance method has been detoured:
+RimWorld.Pawn_Ownership.UnclaimAll</description>
+</ModMetaData>

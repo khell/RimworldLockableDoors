@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+	<ResearchProjectDef>
+		<defName>ResearchLockableDoor</defName>
+		<label>door locks</label>
+		<description>Research primitive door locks to secure rooms from others.</description>
+        <descriptionDiscovered>Finally, secure your sleep from the invasiveness of others!</descriptionDiscovered>
+		<baseCost>200</baseCost>
+		<techLevel>Medieval</techLevel>
+        <researchViewX>6</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+</ResearchProjectDefs>

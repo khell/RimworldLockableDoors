@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LockableDoors_DoorSetUnlockableLabel>Set unlockable</LockableDoors_DoorSetUnlockableLabel>
+	<LockableDoors_DoorSetUnlockableDesc>Assign this door to be unlockable only by specific colonists.</LockableDoors_DoorSetUnlockableDesc>
+
+	<LockableDoors_InspectUnlockableLabel>Unlockable by: </LockableDoors_InspectUnlockableLabel>
+	<LockableDoors_InspectUnlockableEveryoneLabel>everyone</LockableDoors_InspectUnlockableEveryoneLabel>
+</LanguageData>
