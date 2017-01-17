@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ResearchLockableDoor.label>запираемые двери</ResearchLockableDoor.label>
+	
+	<ResearchLockableDoor.description>Вы сможете строить простые запираемые двери.</ResearchLockableDoor.description>
+	
+	<ResearchLockableDoor.descriptionDiscovered>Вы сможете строить простые запираемые двери.</ResearchLockableDoor.descriptionDiscovered>
+
+</LanguageData>

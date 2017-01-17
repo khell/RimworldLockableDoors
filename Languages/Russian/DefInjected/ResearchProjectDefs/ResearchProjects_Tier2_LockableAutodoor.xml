@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ResearchLockableAutodoor.label>запираемые автодвери</ResearchLockableAutodoor.label>
+	
+	<ResearchLockableAutodoor.description>Вы сможете строить автоматические запираемые двери.</ResearchLockableAutodoor.description>
+	
+	<ResearchLockableAutodoor.descriptionDiscovered>Вы можете строить автоматические запираемые двери.</ResearchLockableAutodoor.descriptionDiscovered>
+
+
+</LanguageData>
