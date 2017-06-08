@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<LockableDoor.label>запираемая дверь</LockableDoor.label>
+	
+	<LockableDoor.description>Разделяет комнаты. Можно поставить замок. Должна быть открыта и закрыта вручную, что замедляет передвижение.</LockableDoor.description>
+	
+	<LockableAutodoor.label>запираемая автодверь</LockableAutodoor.label>
+	
+	<LockableAutodoor.description>Разделяет комнаты. Можно поставить замок. Позволяет входить и выходить без задержки.</LockableAutodoor.description>
+
+</LanguageData>
