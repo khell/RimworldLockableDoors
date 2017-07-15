@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LockableDoor.label>门(带锁)</LockableDoor.label>
+  <LockableDoor.description>用来划分房间。自带门锁。必须手动打开和关闭，因此会减慢人们的行走速度。</LockableDoor.description>
+
+  <LockableAutodoor.label>自动门(带锁)</LockableAutodoor.label>
+  <LockableAutodoor.description>用来划分房间。自带门锁。采用电力驱动允许人们通过门移动而不会减速。</LockableAutodoor.description>
+
+
+</LanguageData>

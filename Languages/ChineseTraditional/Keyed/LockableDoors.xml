@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LockableDoors_DoorSetUnlockableLabel>設置門鎖</LockableDoors_DoorSetUnlockableLabel>
+  <LockableDoors_DoorSetUnlockableDesc>指定這道門只能由特定的殖民者開啟</LockableDoors_DoorSetUnlockableDesc>
+
+  <LockableDoors_InspectUnlockableLabel>設置通行：</LockableDoors_InspectUnlockableLabel>
+  <LockableDoors_InspectUnlockableEveryoneLabel>任何人</LockableDoors_InspectUnlockableEveryoneLabel>
+</LanguageData>

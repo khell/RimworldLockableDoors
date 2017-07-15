@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LockableDoor.label>門(帶鎖)</LockableDoor.label>
+  <LockableDoor.description>用來劃分房間。自帶門鎖。必須手動打開和關閉，因此會減慢人們的行走速度。</LockableDoor.description>
+
+  <LockableAutodoor.label>自動門(帶鎖)</LockableAutodoor.label>
+  <LockableAutodoor.description>用來劃分房間。自帶門鎖。採用電力驅動允許人們通過門移動而不會減速。</LockableAutodoor.description>
+
+
+</LanguageData>
