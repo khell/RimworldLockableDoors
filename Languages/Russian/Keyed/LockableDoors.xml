@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LockableDoors_DoorSetUnlockableLabel>Установить замок</LockableDoors_DoorSetUnlockableLabel>
+	<LockableDoors_DoorSetUnlockableDesc>Назначить колонистов которые могут открывать данную дверь.</LockableDoors_DoorSetUnlockableDesc>
+
+	<LockableDoors_InspectUnlockableLabel>Открыто для: </LockableDoors_InspectUnlockableLabel>
+	<LockableDoors_InspectUnlockableEveryoneLabel>всех</LockableDoors_InspectUnlockableEveryoneLabel>
+</LanguageData>
