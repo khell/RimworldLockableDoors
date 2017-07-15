@@ -20,7 +20,6 @@
         <researchPrerequisites>
             <li>ResearchLockableDoor</li>
         </researchPrerequisites>
-        <regionBarrier>True</regionBarrier>
     </ThingDef>
 
     <ThingDef ParentName="DoorBase">
@@ -56,6 +55,5 @@
         <researchPrerequisites>
             <li>ResearchLockableAutodoor</li>
         </researchPrerequisites>
-        <regionBarrier>True</regionBarrier>
     </ThingDef>
 </Buildings>

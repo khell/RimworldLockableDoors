@@ -1,19 +1,18 @@
-﻿using HugsLib.Source.Detour;
+﻿using System.Reflection;
 using RimWorld;
-using System.Reflection;
 using Verse;
 using LockableDoors.Buildings;
+using Harmony;
 
-namespace LockableDoors.Detoured
+namespace LockableDoors.Patch
 {
-    internal static class _Pawn_Ownership
+    [HarmonyPatch(typeof(Pawn_Ownership), "UnclaimAll")]
+    internal static class Pawn_Ownership_UnclaimAll
     {
-        [DetourMethod(typeof(Pawn_Ownership), "UnclaimAll")]
-        internal static void UnclaimAll(this Pawn_Ownership self)
+        [HarmonyPostfix]
+        internal static void UnclaimAll(Pawn_Ownership __instance)
         {
-            self.UnclaimBed();
-            self.UnclaimGrave();
-            self.UnclaimDoors();
+            __instance.UnclaimDoors();
         }
 
         internal static void UnclaimDoors(this Pawn_Ownership self)

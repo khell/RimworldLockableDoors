@@ -76,7 +76,7 @@ namespace LockableDoors.Buildings
         public override void ExposeData()
         {
             base.ExposeData();
-            Scribe_Collections.LookList<Pawn>(ref this.owners, "owners", LookMode.Reference, new object[0]);
+            Scribe_Collections.Look<Pawn>(ref this.owners, "owners", LookMode.Reference, new object[0]);
         }
 
         public override string GetInspectString()

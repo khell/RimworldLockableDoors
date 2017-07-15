@@ -6,10 +6,6 @@ I was inspired to create this mod after my colonists kept entering other colonis
 # Dependencies
 Requires HugsLib.
 
-# Compatibility
-Please note this mod uses the detour technique to redirect flow when the following methods are invoked:
-* RimWorld.Pawn_Ownership.UnclaimAll
-
 # Using as a Library
 If you are implementing a custom door and want to make it lockable, download the compiled DLL for this mod from Steam Workshop or Ludeon Forums and add it to your project as a reference. Then subclass `LockableDoors.Buildings.Building_LockableDoor`. It is itself a subclass of the regular door. Make sure you make the appropriate invocations back to the base methods if you override any of the methods such as `PawnCanOpen` to retain the behaviour. Lastly, make sure you instruct your users to load your mod **after** LockableDoors and if uploading to Steam Workshop set it as a mod dependency.
 

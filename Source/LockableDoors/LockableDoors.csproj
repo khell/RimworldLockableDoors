@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Buildings\Building_LockableDoor.cs" />
-    <Compile Include="Detoured\_Pawn_Ownership.cs" />
+    <Compile Include="Patches\Pawn_Ownership.cs" />
     <Compile Include="LockableDoorsBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
