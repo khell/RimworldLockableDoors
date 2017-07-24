@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchLockableDoor.label>ドアの施錠</ResearchLockableDoor.label>
+  <ResearchLockableDoor.description>他人から部屋のプライバシーを保護するために原始的なドアの施錠を研究します。</ResearchLockableDoor.description>
+  <ResearchLockableDoor.descriptionDiscovered>研究が完了しました。他人の侵入からあなたの睡眠を守りましょう！</ResearchLockableDoor.descriptionDiscovered>
+
+
+</LanguageData>
