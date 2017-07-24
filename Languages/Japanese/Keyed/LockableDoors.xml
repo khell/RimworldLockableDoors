@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LockableDoors_DoorSetUnlockableLabel>通行設定</LockableDoors_DoorSetUnlockableLabel>
+  <LockableDoors_DoorSetUnlockableDesc>このドアを指定した植民者だけが開けられるように割り当てます。</LockableDoors_DoorSetUnlockableDesc>
+
+  <LockableDoors_InspectUnlockableLabel>通行可能 : </LockableDoors_InspectUnlockableLabel>
+  <LockableDoors_InspectUnlockableEveryoneLabel>誰でも</LockableDoors_InspectUnlockableEveryoneLabel>
+
+</LanguageData>
