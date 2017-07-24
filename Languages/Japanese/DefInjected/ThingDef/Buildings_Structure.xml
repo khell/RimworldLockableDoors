@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LockableDoor.label>ドア(鍵付)</LockableDoor.label>
+  <LockableDoor.description>部屋を隔てる鍵付きの手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</LockableDoor.description>
+  <LockableDoor_Blueprint.label>ドア(鍵付)(設計)</LockableDoor_Blueprint.label>
+  <LockableDoor_Frame.label>ドア(鍵付)(施工)</LockableDoor_Frame.label>
+  <LockableDoor_Frame.description>部屋を隔てる鍵付きの手動扉です。 手で開け閉めしないといけない分だけ移動が遅くなります。</LockableDoor_Frame.description>
+
+  <LockableAutodoor.label>自動ドア(鍵付)</LockableAutodoor.label>
+  <LockableAutodoor.description>部屋を隔てる鍵付きの自動扉です。自動で開閉するので通過はスムーズになります。</LockableAutodoor.description>
+  <LockableAutodoor_Blueprint.label>自動ドア(鍵付)(設計)</LockableAutodoor_Blueprint.label>
+  <LockableAutodoor_Frame.label>自動ドア(鍵付)(施工)</LockableAutodoor_Frame.label>
+  <LockableAutodoor_Frame.description>部屋を隔てる鍵付きの自動扉です。自動で開閉するので通過はスムーズになります。</LockableAutodoor_Frame.description>
+
+
+</LanguageData>
