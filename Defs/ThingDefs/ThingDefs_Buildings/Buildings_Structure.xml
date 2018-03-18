@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Buildings>
+<Defs>
     <ThingDef ParentName="DoorBase">
         <thingClass>LockableDoors.Buildings.Building_LockableDoor</thingClass>
         <defName>LockableDoor</defName>
@@ -56,4 +56,4 @@
             <li>ResearchLockableAutodoor</li>
         </researchPrerequisites>
     </ThingDef>
-</Buildings>
+</Defs>
