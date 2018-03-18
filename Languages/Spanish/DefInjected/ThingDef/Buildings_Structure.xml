@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LockableDoor.label>puerta con cerradura</LockableDoor.label>
+  <LockableDoor.description>Divide las habitaciones. Tiene un candado. Debe abrirse y cerrarse manualmente, lo que ralentiza a las personas.</LockableDoor.description>
+  <LockableDoor_Blueprint.label>puerta con cerradura (anteproyecto)</LockableDoor_Blueprint.label>
+  <LockableDoor_Frame.label>puerta con cerradura (en construcción)</LockableDoor_Frame.label>
+  <LockableDoor_Frame.description>Divide las habitaciones. Tiene un candado. Debe abrirse y cerrarse manualmente, lo que ralentiza a las personas.</LockableDoor_Frame.description>
+
+  <LockableAutodoor.label>autopuerta bloqueable</LockableAutodoor.label>
+  <LockableAutodoor.description>Divide las habitaciones. Tiene un candado. La operación motorizada permite a las personas moverse a través de la puerta sin disminuir la velocidad.</LockableAutodoor.description>
+  <LockableAutodoor_Blueprint.label>autopuerta bloqueable (anteproyecto)</LockableAutodoor_Blueprint.label>
+  <LockableAutodoor_Frame.label>autopuerta bloqueable (en construcción)</LockableAutodoor_Frame.label>
+  <LockableAutodoor_Frame.description>Divide las habitaciones. Tiene un candado. La operación motorizada permite a las personas moverse a través de la puerta sin disminuir la velocidad.</LockableAutodoor_Frame.description>
+
+
+</LanguageData>

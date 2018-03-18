@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LockableDoors_DoorSetUnlockableLabel>Desbloqueable</LockableDoors_DoorSetUnlockableLabel>
+  <LockableDoors_DoorSetUnlockableDesc>Asigne esta puerta para que sea desbloqueable solo por colonos específicos.</LockableDoors_DoorSetUnlockableDesc>
+
+  <LockableDoors_InspectUnlockableLabel>Desbloqueable por: </LockableDoors_InspectUnlockableLabel>
+  <LockableDoors_InspectUnlockableEveryoneLabel>todos</LockableDoors_InspectUnlockableEveryoneLabel>
+
+</LanguageData>
