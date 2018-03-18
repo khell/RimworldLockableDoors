@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ResearchProjectDefs>
+<Defs>
 	<ResearchProjectDef>
 		<defName>ResearchLockableDoor</defName>
 		<label>door locks</label>
@@ -10,4 +10,4 @@
         <researchViewX>6</researchViewX>
 		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
-</ResearchProjectDefs>
+</Defs>
